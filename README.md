@@ -14,7 +14,7 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 - **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Material UI, Tailwind, Styled-Components, SCSS.
 - **Backend:** Node.js, Express.js, REST APIs, GraphQL.
 - **Tools:** Git, Docker, Webpack, Figma, Agile/Scrum.
-- **Other:** PWA development, animations (react-spring), localization (i18next).
+- **Other:** PWA development, animations (react-spring, GSAP), localization (i18next).
 
 ## 🌟 Experience Highlights
 
