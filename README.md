@@ -18,6 +18,16 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 
 ## 🌟 Experience Highlights
 
+### **Frontend Developer – Reliability Technologies (Outstaff for BCS Investment World)** (February 2025 – May 2025)
+
+Contributed to the development of an **internal admin panel for financial assets**, aimed at optimizing data management and internal processes.
+
+- Built and improved **directories and data tables** with complex business logic.  
+- Migrated from **Redux/Redux-Saga** to **TanStack Query**: hooks, caching, and removing custom queries.  
+- Enhanced **data tables** with export, filtering, sorting, and pagination.  
+- Refactored codebase: eliminated hardcoded logic, added strict typing via **Swagger**.  
+- Participated in **code reviews, task estimation, and technical discussions**.  
+
 ### **Frontend Developer – Antipoff Group** (June 2024 – August 2024)
 
 Developed the **"Creative Hub"**, a platform for creative professionals combining features of LinkedIn, Habr, and HH.
@@ -27,7 +37,7 @@ Developed the **"Creative Hub"**, a platform for creative professionals combinin
 - Improved code quality through refactoring and bug fixing.  
   [🔗 Project link](https://creativehub.dev.iamrobot.xyz)
 
-### **Frontend Developer – Bogoda Digital Pro** (April 2024 - May 2024)
+### **Frontend Developer – Bogoda Digital Pro** (March 2024 - April 2024)
 
 Worked on **Guider**, a platform for discovering local services and leisure spots in Costa Rica.
 
