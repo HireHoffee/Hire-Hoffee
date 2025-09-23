@@ -5,7 +5,7 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 ## 📖 About Me
 
 - 🎓 **Education:** Bachelor’s in Infocommunication Technologies and Communication Systems, BFU University (2019-2023).
-- 🛠️ **Experience:** 2+ years of self-study and pet projects, plus more than 1 year of commercial development experience across three companies.
+- 🛠️ **Experience:** 2+ years of self-study and pet projects, and 1+ year of commercial development experience across three companies.
 - 🌍 **Location:** Based in Kaliningrad, Russia, open to remote opportunities.
 - 🎯 **Objective:** Looking for roles where I can grow and contribute to exciting, meaningful projects.
 
