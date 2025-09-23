@@ -5,8 +5,8 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 ## 📖 About Me
 
 - 🎓 **Education:** Bachelor’s in Infocommunication Technologies and Communication Systems, BFU University (2019-2023).
-- 🛠️ **Experience:** 2+ years of self-study and pet projects, plus 5 months of commercial development experience across two companies.
-- 🌍 **Location:** Based in Kaliningrad, Russia, open to relocation (Moscow, St. Petersburg) or remote opportunities.
+- 🛠️ **Experience:** 2+ years of self-study and pet projects, plus more than 1 year of commercial development experience across three companies.
+- 🌍 **Location:** Based in Kaliningrad, Russia, open to remote opportunities.
 - 🎯 **Objective:** Looking for roles where I can grow and contribute to exciting, meaningful projects.
 
 ## 🛠️ Tech Stack
@@ -18,7 +18,7 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 
 ## 🌟 Experience Highlights
 
-### **Frontend Developer – Reliability Technologies (Outstaff for BCS Investment World)**
+### **Frontend Developer – Reliability Technologies**
 
 Contributed to the development of an **internal admin panel for financial assets**, aimed at optimizing data management and internal processes.
 
@@ -35,7 +35,7 @@ Developed the **"Creative Hub"**, a platform for creative professionals combinin
 - Built responsive interfaces with **React/Next.js** and **TypeScript**.
 - Integrated **multilingual support** using i18next.
 - Improved code quality through refactoring and bug fixing.  
-  [🔗 Project link](https://creativehub.dev.iamrobot.xyz)
+  [🔗 Project link](https://creativehub.su)
 
 ### **Frontend Developer – Bogoda Digital Pro**
 
@@ -48,7 +48,7 @@ Worked on **Guider**, a platform for discovering local services and leisure spot
 
 ## 🖥️ Featured Projects
 
-Here are some personal projects showcasing my skills:
+Here are some pet projects showcasing my skills:
 
 1. **[Mail Client](https://github.com/Hire-Hoffee/Web-Mail)**
 
@@ -67,12 +67,11 @@ Here are some personal projects showcasing my skills:
    - Stack: Next.js, Material UI, Apollo Server, Prisma ORM.  
      [🔗 Demo](http://petchatscape.ydns.eu)
 
-Explore more on my GitHub: [Hire-Hoffee](https://github.com/Hire-Hoffee)
+Explore more on my [repos](https://github.com/Hire-Hoffee?tab=repositories) page.
 
 ## 📚 Other work during my studies:
 
 - [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
-- [CodePen profile](https://codepen.io/hirehoffee)
 
 ## 📫 Let's Connect
 
