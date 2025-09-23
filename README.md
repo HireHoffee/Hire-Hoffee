@@ -69,10 +69,6 @@ Here are some pet projects showcasing my skills:
 
 Explore more on my [repos](https://github.com/Hire-Hoffee?tab=repositories) page.
 
-## 📚 Other work during my studies:
-
-- [freeCodeCamp profile](https://www.freecodecamp.org/hirehoffee)
-
 ## 📫 Let's Connect
 
 - **Email:** mr.rostik.01@gmail.com
