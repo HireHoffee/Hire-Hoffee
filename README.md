@@ -22,29 +22,17 @@ I'm a **frontend developer** with a passion for building efficient and user-frie
 
 Contributed to the development of an **internal admin panel for financial assets**, aimed at optimizing data management and internal processes.
 
-- Built and improved **directories and data tables** with complex business logic.  
-- Migrated from **Redux/Redux-Saga** to **TanStack Query**: hooks, caching, and removing custom queries.  
-- Enhanced **data tables** with export, filtering, sorting, and pagination.  
-- Refactored codebase: eliminated hardcoded logic, added strict typing via **Swagger**.  
-- Participated in **code reviews, task estimation, and technical discussions**.  
-
 ### **Frontend Developer – Antipoff Group**
 
 Developed the **"Creative Hub"**, a platform for creative professionals combining features of LinkedIn, Habr, and HH.
 
-- Built responsive interfaces with **React/Next.js** and **TypeScript**.
-- Integrated **multilingual support** using i18next.
-- Improved code quality through refactoring and bug fixing.  
-  [🔗 Project link](https://creativehub.su)
+  - [🔗 Project link](https://creativehub.su)
 
 ### **Frontend Developer – Bogoda Digital Pro**
 
 Worked on **Guider**, a platform for discovering local services and leisure spots in Costa Rica.
-
-- Designed adaptive UI/UX for web and mobile.
-- Added animations with **react-spring**.
-- Implemented **authentication forms** and enhanced SEO with OpenGraph.  
-  [🔗 Project link](https://guider.pro)
+  
+  - [🔗 Project link](https://guider.pro)
 
 ## 🖥️ Featured Projects
 
