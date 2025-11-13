@@ -33,4 +33,4 @@ Refactored and optimized the frontend for better maintainability and performance
 ## 📫 Let's Connect
 
 - **Email:** hirehoffee.work@gmail.com
-- **Telegram:** [@HireHaze](https://t.me/HireHaze)
+- **Telegram:** [@HireHoffee](https://t.me/HireHoffee)
